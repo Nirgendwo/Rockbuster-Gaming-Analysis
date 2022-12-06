@@ -9,5 +9,5 @@ I have been hired by Rockbuster Stealth’s business intelligence (BI) departmen
 - Do sales figures vary between geographic regions?
 
 ### Content of this project:
-My [Data Dictonary](https://)  
+My [Data Dictonary](https://github.com/Nirgendwo/Rockbuster-Gaming-Analysis/blob/01c16434d2ebe94649c3e4b49e2a7e63b91b9d71/Data-Dictionary.pdf)  
 After loading the data into a RDBMS, I started analysing the data using SQL querrys.
