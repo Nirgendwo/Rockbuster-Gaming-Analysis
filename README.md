@@ -10,4 +10,5 @@ I have been hired by Rockbuster Stealth’s business intelligence (BI) departmen
 
 ### Content of this project:
 My [Data Dictonary](https://github.com/Nirgendwo/Rockbuster-Gaming-Analysis/blob/01c16434d2ebe94649c3e4b49e2a7e63b91b9d71/Data-Dictionary.pdf)  
-After loading the data into a RDBMS, I started analysing the data using SQL querrys.
+After loading the data into a RDBMS, I started analysing the data using SQL querrys. The content of the analysis can be fount in the [analysis folder](https://github.com/Nirgendwo/Rockbuster-Gaming-Analysis/tree/main/Analysis).  
+The last step was to create the [final report](https://github.com/Nirgendwo/Rockbuster-Gaming-Analysis/blob/70dca47c62786e5d720d6f4fcf39b3f266a06fd7/Final-Report.pdf).
